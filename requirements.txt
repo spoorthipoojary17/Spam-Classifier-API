@@ -1,0 +1,9 @@
+
+tensorflow==2.21.0
+fastapi==0.141.1
+scikit-learn==1.6.1
+joblib==1.6.0
+pydantic==2.14.2
+uvicorn==0.54.0
+pytest==8.4.2
+httpx==0.28.1
